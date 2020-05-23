@@ -1,4 +1,4 @@
-![PORTFOLIO](https://raw.githubusercontent.com/danilozag1992/PORTFOLIO/master/app/assets/images/screenshot.png)
+
 ## Description
 This is Ruby on the Rails portfolio project, part of the curriculum at [Microverse](https://www.microverse.org/). I built this portfolio so I can show my work.
 
