@@ -15,7 +15,7 @@
 
     --clr-light: #fff;
     --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-grey: rgb(159,221,255);
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -60,7 +60,7 @@ img {
 strong { font-weight: var(--fw-bold) }
 
 :focus {
-    outline: 3px solid var(--clr-accent);
+    outline: 3px solid var(--clr-grey);
     outline-offset: 3px;
 }
 .logo{
@@ -90,7 +90,7 @@ h3 { font-size: var(--fs-h3) }
 .btn {
     display: inline-block;
     padding: .5em 1.5em;
-    background: var(--clr-accent);
+    background: var(--clr-grey);
     color: var(--clr-dark);
     text-decoration: none;
     cursor: pointer;
@@ -124,13 +124,13 @@ h3 { font-size: var(--fs-h3) }
 
 .section__subtitle--intro,
 .section__subtitle--about {
-    background: var(--clr-accent);
+    background: var(--clr-grey);
     padding: .25em 1em;
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
 }
 .section__subtitle--work {
-    color: var(--clr-accent);
+    color: var(--clr-grey);
     font-weight: var(--fw-bold);
     margin-bottom: 2em;
 }
@@ -175,7 +175,7 @@ header {
 }
 
 .nav__link:hover {
-    color: var(--clr-accent);
+    color: var(--clr-grey);
 }
 .nav-toggle {
     padding: .5em;
@@ -216,7 +216,7 @@ header {
 .hamburger,
 .hamburger::before,
 .hamburger::after {
-    background: var(--clr-accent);
+    background: var(--clr-grey);
     width: 2em;
     height: 3px;
     border-radius: 1em;
@@ -293,7 +293,7 @@ header {
 }
 
 .section__title--services {
-    color: var(--clr-accent);
+    color: var(--clr-grey);
     position: relative;
 }
 
@@ -382,7 +382,7 @@ header {
 }
 
 .portfolio__item {
-    background: var(--clr-accent);
+    background: var(--clr-grey);
     overflow: hidden;
 }
 
@@ -408,7 +408,7 @@ header {
 
 .footer {
     background: #111;
-    color: var(--clr-accent);
+    color: var(--clr-grey);
     text-align: center;
     padding: 2.5em 0;
     font-size: var(--fs-h3);
