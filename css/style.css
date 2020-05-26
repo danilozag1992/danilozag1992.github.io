@@ -48,7 +48,20 @@ body {
     font-size: var(--fs-body);
     line-height: 1.6;
 }
-
+.social-buttons{
+    width: 100%;
+}
+.header__buttons{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    margin: 2em 0 0;
+    padding: 0;
+}
+.social-list-header {
+ color: rgb(158,221,255);
+    padding: .5em;;
+}
 section {
     padding: 5em 2em;
 }
@@ -447,4 +460,16 @@ header {
 
 .social-list__link {
     padding: .5em;
+}
+
+.portfolio-item-individual {
+    padding: 0 2em 2em;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.portfolio-item-individual p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
