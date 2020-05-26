@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a39c2fb-3b2e-4bd7-840b-84146ed76793" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook-clone.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newsweek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/times.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook-clone.html" beforeDir="false" afterPath="$PROJECT_DIR$/facebook-clone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp.html" beforeDir="false" afterPath="$PROJECT_DIR$/mvp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsweek.html" beforeDir="false" afterPath="$PROJECT_DIR$/newsweek.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/times.html" beforeDir="false" afterPath="$PROJECT_DIR$/times.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <workItem from="1590245960660" duration="5242000" />
       <workItem from="1590340487669" duration="9029000" />
       <workItem from="1590514479265" duration="1781000" />
-      <workItem from="1590521404784" duration="7387000" />
+      <workItem from="1590521404784" duration="7938000" />
     </task>
     <servers />
   </component>

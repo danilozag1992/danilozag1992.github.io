@@ -5,7 +5,7 @@ This is Javascript, HTML, CSS portfolio project, part of the curriculum at [Micr
 ![Screenshot](https://raw.githubusercontent.com/danilozag1992/PORTFOLIO-JAVASCRIPT/master/img/portfolio.png)
 
 ## Live Demo
-[Portfolio](https://young-beach-64166.herokuapp.com/#services)
+[Portfolio](https://danilozag1992.github.io/)
 ## Built With
 - HTML
 - CSS
