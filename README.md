@@ -9,7 +9,7 @@ This is Javascript, HTML, CSS portfolio project, part of the curriculum at [Micr
 ## Built With
 - HTML
 - CSS
-- JAVASCRIPT
+- Javascript
 
 ## Features
 - User can see my work
