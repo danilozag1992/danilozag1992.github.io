@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8a39c2fb-3b2e-4bd7-840b-84146ed76793" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,6 +40,7 @@
       <workItem from="1590144019218" duration="6614000" />
       <workItem from="1590245960660" duration="5242000" />
       <workItem from="1590340487669" duration="9029000" />
+      <workItem from="1590514479265" duration="1090000" />
     </task>
     <servers />
   </component>
@@ -48,5 +52,9 @@
       <screen x="67" y="27" width="1373" height="873" />
     </state>
     <state x="486" y="211" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1373.873@67.27.1373.873" timestamp="1590345608127" />
+    <state x="242" y="97" key="SettingsEditor" timestamp="1590515603616">
+      <screen x="67" y="27" width="1373" height="873" />
+    </state>
+    <state x="242" y="97" key="SettingsEditor/67.27.1373.873@67.27.1373.873" timestamp="1590515603616" />
   </component>
 </project>
