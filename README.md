@@ -29,3 +29,7 @@ $ cd PORTFOLIO-JAVASCRIPT
 ```
 ## Future features
 - Frontend will be done using react.
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
