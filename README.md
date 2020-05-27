@@ -2,7 +2,7 @@
 ## Description
 This is Javascript, HTML, CSS portfolio project, part of the curriculum at [Microverse](https://www.microverse.org/). I built this portfolio so I can show my work.
 
-![Screenshot](https://raw.githubusercontent.com/danilozag1992/PORTFOLIO-JAVASCRIPT/master/img/portfolio.png)
+![Screenshot](https://raw.githubusercontent.com/danilozag1992/danilozag1992.github.io/master/img/portfolio.png)
 
 ## Live Demo
 [Portfolio](https://danilozag1992.github.io/)
